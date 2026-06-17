@@ -36,17 +36,17 @@ The project was designed to explore the following business questions:
 
 Source:
 
-Direct Messaging Dataset (Kaggle) *******NA BALW LINK
+[Direct Messaging Dataset (Kaggle)](https://www.kaggle.com/datasets/mkechinov/direct-messaging)
 
 Files used:
 
-campaigns.csv
-client_first_purchase_date.csv
-holidays.csv
-messages-demo.csv
+- campaigns.csv
+- client_first_purchase_date.csv
+- holidays.csv
+- messages-demo.csv
 
 
-## Tech Stach
+## Tech Stack
 | Tool     | Purpose                                                   |
 | -------- | --------------------------------------------------------- |
 | MySQL    | Data extraction and KPI aggregation                       |
