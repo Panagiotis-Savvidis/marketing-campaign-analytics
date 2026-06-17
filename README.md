@@ -1,4 +1,4 @@
-# marketing-campaign-analytics
+# Marketing Campaign Analytics & Budget Optimization
 ## Overview
 
 This project analyzes the performance of direct marketing campaigns across Email, SMS, and Push Notification channels using SQL, Power BI, and Excel.
@@ -10,14 +10,14 @@ The project combines data preparation, dashboard development, Comparative Analys
 
 ## Dashboard Preview
 
-Executive Dashboard
-<img src="screenshots/executive_dashboard.png" width="900">
+### Executive Dashboard
+<img src="screenshots/executive_dashboard.png" width="700">
 
-Comparative_Analysis_Dashboard
-<img src="screenshots/comparative_analysis_dashboard.png" width="900">
+### Comparative_Analysis_Dashboard
+<img src="screenshots/comparative_analysis_dashboard.png" width="700">
 
-ROI & Budget Optimization Tool
-<img src="screenshots/campaign_budget_optimizer.png" width="900">
+### ROI & Budget Optimization Tool
+<img src="screenshots/campaign_budget_optimizer.png" width="700">
 
 
 ## Business Questions
