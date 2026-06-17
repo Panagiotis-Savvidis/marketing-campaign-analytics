@@ -13,7 +13,7 @@ The project combines data preparation, dashboard development, Comparative Analys
 ### Executive Dashboard
 <img src="screenshots/executive_dashboard.png" width="700">
 
-### Comparative_Analysis_Dashboard
+### Comparative Analysis Dashboard
 <img src="screenshots/comparative_analysis_dashboard.png" width="700">
 
 ### ROI & Budget Optimization Tool
@@ -56,7 +56,7 @@ Files used:
 
 ## Data Model
 
-<img src="screenshots/data_model.png" width="700">
+<img src="screenshots/data_model.png" width="900">
 
 
 ## Modeling Assumptions
